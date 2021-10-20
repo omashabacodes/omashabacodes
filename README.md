@@ -13,7 +13,7 @@
 
 # Overview
 
-###### I am currently following The Odin Project's Full Stack Javascript Curriculum. I am also enrolled in CS50x, an open source Introduction to Computer Science course taught by Harvard University. I am currently doing the #100DaysOfCode challenge and document coding web development journey via daily via vlogs on my Youtube Channel.
+###### I am currently following The Odin Project's Full Stack Javascript Curriculum. I am also enrolled in CS50x, an open source Introduction to Computer Science course taught by Harvard University. I am currently doing the #100DaysOfCode challenge and document coding web development journey via daily  vlogs on my Youtube Channel.
 
 
 [Skills](https://omashabacodes.github.io/Quote-generator/)
