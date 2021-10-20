@@ -6,11 +6,11 @@
 
 [ . Overview](https://github.com/omashabacodes)
 
-[- Skills](omashabacodes.github.io/calculator/)
+[- Skills](https://github.com/omashabacodes)
 
 [- Links]([Links])
  
-[- Continued development](omashabacodes.github.io/todo-list/)
+
 
 
 
