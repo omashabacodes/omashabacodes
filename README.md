@@ -1,16 +1,32 @@
-### Hi there 👋
+# Chioma Shaba
 
-<!--
-**omashabacodes/omashabacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Front End Developer
 
-Here are some ideas to get you started:
+## Table of content
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ . Overview](https://github.com/omashabacodes)
+
+[- Skills](omashabacodes.github.io/calculator/)
+
+[- Links]([Links])
+ 
+[- Continued development](omashabacodes.github.io/todo-list/)
+
+
+
+# Overview
+
+###### I am currently following The Odin Project's Full Stack Javascript Curriculum. I am also enrolled in CS50x, an open source Introduction to Computer Science course taught by Harvard University. I am currently doing the #100DaysOfCode challenge and document coding web development journey via daily via vlogs on my Youtube Channel.
+
+
+[Skills](https://omashabacodes.github.io/Quote-generator/)
+
+HTML5, CSS3, SASS, Javascript ES6+, NPM, Webpacks, GSAP,FIGMA, Git.
+
+
+
+
+Links
+
+- Codepen:  https://codepen.io/omashaba_codes
+- Linkedin: www.linkedin.com/in/chioma-shaba
