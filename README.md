@@ -8,9 +8,6 @@
 
 [- Skills](https://github.com/omashabacodes)
 
-[- Links]([Links])
- 
-
 
 
 
