@@ -27,5 +27,5 @@ Links
 
 - Codepen:  https://codepen.io/omashaba_codes
 - Linkedin: www.linkedin.com/in/chioma-shaba
-- 
+
 #My Current Stack  and Stool I use:
