@@ -1,8 +1,5 @@
-# Chioma Shaba
+ 👩 # About Me
 
-###### Front End Developer
-
-## Table of content
 
 [ . Overview](https://github.com/omashabacodes)
 
