@@ -36,3 +36,7 @@ Links
 ![139263097-d53a7755-8f09-4233-962f-f53aaf26bc1d](https://user-images.githubusercontent.com/92826985/139596945-0cf0a4d2-eb4d-41d6-9bb3-115433d26e9d.png)
 ![139262570-414d6ce3-ed21-4ece-9638-549bfac4cc02](https://user-images.githubusercontent.com/92826985/139596952-2c8b5a29-f01a-4409-88e5-edce97b978e5.png)
 ![139263500-ac14551c-5532-4e31-bf30-09ca9ae3c331](https://user-images.githubusercontent.com/92826985/139596956-d57e105d-62e2-4555-a5d8-952878467b87.png)
+
+# Learning Next:![139262778-614e42a4-d27b-4010-a864-5de2ffe13290](https://user-images.githubusercontent.com/92826985/139596987-69416d7e-a7c9-49e6-9f73-9c3f221b3a69.png)
+![139262814-20eb2a6c-5de0-4ded-aa11-93e01dedd4b8](https://user-images.githubusercontent.com/92826985/139596989-7dc67610-a7f2-4805-876c-670dc7267fa5.png)
+![139263523-05450c04-3a90-47aa-b8e0-9bb3fe3b44b7](https://user-images.githubusercontent.com/92826985/139596993-1c5406fc-37dd-41cb-9017-60184c9ca64a.png)
