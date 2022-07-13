@@ -27,17 +27,22 @@ Links
 - Codepen:  https://codepen.io/omashaba_codes
              
 -linkedin:  www.linkedin.com/in/chioma-shaba 
+![image](https://user-images.githubusercontent.com/92826985/178813742-2018ecc3-31c6-4dbe-8cd2-07d429d3eeed.png     www.linkedin.com/in/chioma-shaba)
 
 
  
 
 # My Current Stack  and ToolS I use:
-
-https://camo.githubusercontent.com/1105f5493f58c44150cb5c9c2c20e7dde13f7bc9eae248b67610b23048f710ec/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d48544d4c3526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d68746d6c35
-
-https://camo.githubusercontent.com/cb4801ca483eb0a37406fd5c6e07bf11ee00c0579b88bfe6a0fe2380b9c8e87d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4353533326636f6c6f723d323835663635267374796c653d706c6173746963266c6f676f3d63737333
-
 ![image](https://user-images.githubusercontent.com/92826985/178813325-a224c7b8-d72e-4c9e-86f3-b6152b5879e5.png)
+![image](https://user-images.githubusercontent.com/92826985/178813494-e772a3dc-372f-4074-af50-6575c3dfad57.png)
+![image](https://user-images.githubusercontent.com/92826985/178813511-49cc4a3d-9225-4f74-892e-6ae7758b46b2.png)
+![image](https://user-images.githubusercontent.com/92826985/178813528-a8dff863-16d8-4088-9bab-0dd02bd28c1c.png)
+![image](https://user-images.githubusercontent.com/92826985/178813545-89868813-2c2a-43c3-bbea-a0314fae51cc.png)
+![image](https://user-images.githubusercontent.com/92826985/178813578-23e2ce5e-cd77-4093-901d-3872abe23714.png)
+![image](https://user-images.githubusercontent.com/92826985/178813595-9923e1b3-7655-46cb-8952-c19da534b362.png)
+![image](https://user-images.githubusercontent.com/92826985/178813607-b407b227-63ec-43d6-b1a5-4d7da46f5159.png)
+![image](https://user-images.githubusercontent.com/92826985/178813630-4930ea04-497c-4551-a2bd-a467ca18829d.png)
+![image](https://user-images.githubusercontent.com/92826985/178813658-a3207ac4-52b2-4501-aec2-680a747ca091.png)
 
 
 
