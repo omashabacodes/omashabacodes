@@ -35,4 +35,4 @@
 
 - Codepen:  https://codepen.io/omashaba_codes
              
--linkedin:  www.linkedin.com/in/chioma-shaba 
+- Linkedin: www.linkedin.com/in/chioma-shaba 
