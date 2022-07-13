@@ -25,7 +25,8 @@
 Links
 
 - Codepen:  https://codepen.io/omashaba_codes
--![image](https://user-images.githubusercontent.com/92826985/178811309-ddd65750-cfa6-4d99-b971-5f6e3a64cf13.png)- Linkedin: www.linkedin.com/in/chioma-shaba
+www.linkedin.com/in/chioma-shaba|![image](https://user-images.githubusercontent.com/92826985/178811736-29b72525-9020-454c-9f71-222f3cab8ad2.png)
+
 
  
 
