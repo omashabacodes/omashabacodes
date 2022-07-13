@@ -1,8 +1,9 @@
 
+![I am  A FULLSTACK](https://user-images.githubusercontent.com/92826985/178810986-435cdb8a-1033-4ae3-91fd-a25261795984.svg)
 
-<textPath xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#path0">
-            full-stack software engineer
-        </textPath>
+
+            
+       
 
 
 # 👩🏽 About Me
