@@ -1,7 +1,5 @@
 
 ![I am  A FULLSTACK](https://user-images.githubusercontent.com/92826985/178810986-435cdb8a-1033-4ae3-91fd-a25261795984.svg)
-
-
             
        
 
@@ -11,26 +9,11 @@
 ![Santa Panda Family Twitter Header (2)](https://user-images.githubusercontent.com/92826985/139597298-bcaa0d99-8b0b-49e1-a802-d5fd7a118c5b.png)
 
 
-
-
-
-
 ###### Thanks for checking my Github Profile.I am Chioma, a Front-End Developer who loves learning,creating user-friendly and accessible web application. I am currently following The Odin Project's Full Stack Javascript Curriculum. I am also enrolled in CS50x , an open source Introduction to Computer Science course taught by Harvard University. I am currently doing the #100DaysOfCode challenge and document coding web development journey via  my twitter account.
 
 
 
 
-
-
-Links
-
-- Codepen:  https://codepen.io/omashaba_codes
-             
--linkedin:  www.linkedin.com/in/chioma-shaba 
-
-
-
- 
 
 # My Current Stack  and ToolS I use:
 ![image](https://user-images.githubusercontent.com/92826985/178813325-a224c7b8-d72e-4c9e-86f3-b6152b5879e5.png)
@@ -48,7 +31,8 @@ Links
 
 
 
-# Learning Next:
-![139262778-614e42a4-d27b-4010-a864-5de2ffe13290](https://user-images.githubusercontent.com/92826985/139596987-69416d7e-a7c9-49e6-9f73-9c3f221b3a69.png)
-![139262814-20eb2a6c-5de0-4ded-aa11-93e01dedd4b8](https://user-images.githubusercontent.com/92826985/139596989-7dc67610-a7f2-4805-876c-670dc7267fa5.png)
-![139263523-05450c04-3a90-47aa-b8e0-9bb3fe3b44b7](https://user-images.githubusercontent.com/92826985/139596993-1c5406fc-37dd-41cb-9017-60184c9ca64a.png)
+# Lets Connect:
+
+- Codepen:  https://codepen.io/omashaba_codes
+             
+-linkedin:  www.linkedin.com/in/chioma-shaba 
