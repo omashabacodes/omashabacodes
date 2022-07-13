@@ -25,7 +25,9 @@
 Links
 
 - Codepen:  https://codepen.io/omashaba_codes
-- Linkedin: www.linkedin.com/in/chioma-shaba
+- Linkedin: www.linkedin.com/in/chioma-shaba ![image](https://user-images.githubusercontent.com/92826985/178811309-ddd65750-cfa6-4d99-b971-5f6e3a64cf13.png)
+
+ 
 
 # My Current Stack  and ToolS I use:
 ![139262510-af436aca-308b-488f-b1c3-9bb25fcbc7bf](https://user-images.githubusercontent.com/92826985/139596930-fd0ffe53-28b0-45aa-9988-6632d5b8bbea.png)
