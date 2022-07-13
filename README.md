@@ -4,7 +4,7 @@
        
 
 
-# 👩🏽 About Me
+# Hi there👩🏽, I'm Chioma
 
 ![Santa Panda Family Twitter Header (2)](https://user-images.githubusercontent.com/92826985/139597298-bcaa0d99-8b0b-49e1-a802-d5fd7a118c5b.png)
 
