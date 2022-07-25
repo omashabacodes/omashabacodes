@@ -36,3 +36,6 @@
 - Codepen:  https://codepen.io/omashaba_codes
              
 - Linkedin: www.linkedin.com/in/chioma-shaba 
+
+![image](https://user-images.githubusercontent.com/92826985/180694858-c0b9df00-d9df-4b3f-9f5c-4a3091c1e438.png)
+
