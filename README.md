@@ -36,3 +36,10 @@
 - Linkedin: www.linkedin.com/in/chioma-shaba 
 
 
+# Projects
+
+
+![Animation](https://user-images.githubusercontent.com/92826985/180702237-b0f61815-3690-476b-901c-47141e4c6e4d.gif)
+    ![image](https://user-images.githubusercontent.com/92826985/180702517-7a0d2d5c-051b-48d5-a26e-18e0077b8682.png)
+            https://curtyhair.netlify.app/
+            https://github.com/omashabacodes/curtyhairsalon1
