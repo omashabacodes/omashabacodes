@@ -39,3 +39,5 @@
 # Projects
 
 
+![Salon anime](https://user-images.githubusercontent.com/92826985/180703310-0970a79b-1909-404e-a753-55918a38602c.gif)
+https://https://github.com/omashabacodes/curtyhairsalon1/lucid
