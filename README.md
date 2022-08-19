@@ -38,7 +38,6 @@
 
 # Projects
 <a href="(https://curtyhair.netlify.app/)" rel="nofollow" data-target="animated-image.originalLink">
-          <img src="/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" alt="Portfolio" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-        </a>
+          
 ![Salon anime](https://user-images.githubusercontent.com/92826985/185537701-21fbe5a7-59d9-4ef1-a62a-4b94502270b3.gif)
 
