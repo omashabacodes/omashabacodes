@@ -40,7 +40,7 @@
 
 
 ![Salon anime](https://user-images.githubusercontent.com/92826985/180703310-0970a79b-1909-404e-a753-55918a38602c.gif)
-<a href="https://chiomashaba.netlify.app/"
+<a href="https://chiomashaba.netlify.app/"  ref ="nofollow">
 ![portfoliogif2](https://user-images.githubusercontent.com/92826985/185535457-448bb249-b7b4-4a92-8259-58ab0c0a9573.gif)
 
 
