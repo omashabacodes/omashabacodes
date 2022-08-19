@@ -38,7 +38,7 @@
 
 # Projects
 
-
+<a href="https://curtyhair.netlify.app/">
 
 ![Salon anime](https://user-images.githubusercontent.com/92826985/185537701-21fbe5a7-59d9-4ef1-a62a-4b94502270b3.gif)
 
